@@ -1,0 +1,17 @@
+.completedChanllange{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin:3.5rem 0;
+    padding-bottom:1px;
+    border-bottom:1px solid var(--gray-line1);
+
+    font-weight: 500;
+}
+.completedChanllange span:first-child{
+    font-size:1.25rem;
+}
+.completedChanllange span:last-child{
+    font-size:1.5rem;
+}
